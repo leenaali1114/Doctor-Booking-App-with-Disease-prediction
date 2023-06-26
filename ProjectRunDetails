@@ -1,0 +1,5 @@
+python -m flask run
+
+
+Location of ther sqlite app to view the database
+C:\Users\Leena Ali\Downloads\SQLiteDatabaseBrowserPortable
